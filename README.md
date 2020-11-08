@@ -1,4 +1,4 @@
-# Predicting Dow Jones Industrial Average (DJIA) stocks direction (up or down) based on Top 25 Headlines from reddit
+# Predicting Dow Jones Industrial Average (DJIA) stock performance direction (up or down) based on Top 25 Headlines from reddit
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ As we know there is great relationship between stocks and daily news. So I had s
 
 ## Aim 
 
-This project is all about predicting whether the (DJIA) stocks goes up/maintain or down based on Top 25 news headlines taken from Reddit website (Daily News for Stock Market Prediction)(https://www.reddit.com/r/worldnews/?hl=)
+This project is all about predicting whether the (DJIA) stock market performance (Dow 30) goes up/maintain or down based on Top 25 news headlines taken from Reddit website (Daily News for Stock Market Prediction)(https://www.reddit.com/r/worldnews/?hl=)
 
 The dataset is taken from Kaggle (https://www.kaggle.com/aaron7sun/stocknews)
 
@@ -64,6 +64,7 @@ for test set
 </p>
 
 scores of the different models are shown below (note: hp=hyperparameter tuning )
+**Highest accuracy achieved among all these models is 87%**
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/63724986/98462319-9f599480-21d9-11eb-8e5f-855521d3301f.gif">
 </p>
