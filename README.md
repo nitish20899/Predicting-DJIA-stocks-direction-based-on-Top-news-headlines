@@ -1,5 +1,8 @@
 # Predicting Dow Jones Industrial Average (DJIA) stock performance direction (up or down) based on Top 25 Headlines from reddit
 
+Please use the below link to see the project file (ipynb) in NBviewer as iframes cannot be rendered inside the github (As iframes cannot be rendered inside the github, you cannot see plotly graphs, so use the below link to see them)
+https://nbviewer.jupyter.org/github/nitish20899/Predicting-DJIA-stocks-direction-based-on-Top-news-headlines/blob/main/predicting-stocks-up-or-down-87-accuracy.ipynb
+
 
 ## Table of Contents
 * [Introduction](#Introduction)
